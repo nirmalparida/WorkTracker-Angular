@@ -1,0 +1,27 @@
+.form-control input {
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+}
+
+.add-form {
+  margin-bottom: 40px;
+}
+
+.form-control {
+  margin: 20px 0;
+}
+
+.form-control label {
+  display: block;
+}
+
+.form-control-check label,
+.form-control-check input {
+  display: inline;
+  width: 30%;
+}
+
+.btn-save {
+  width: 100%;
+}

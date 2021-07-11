@@ -1,0 +1,42 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Angular Assignment",
+      "day": "May 30th at 8.00pm",
+      "remainder": true,
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "React Assignment",
+      "day": "May 20th at 8.00pm",
+      "remainder": true,
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "CSS3 Assignment",
+      "day": "May 20th at 8.00pm",
+      "remainder": true
+    },
+    {
+      "id": 5,
+      "text": "HTML5 Assignment",
+      "day": "May 20th at 8.00pm",
+      "remainder": true
+    },
+    {
+      "id": 6,
+      "text": "Rxjs Assignment",
+      "day": "May 20th at 8.00pm",
+      "remainder": true
+    },
+    {
+      "text": "Web Api",
+      "day": "July 10th at 8.00pm",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
